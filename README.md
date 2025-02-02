@@ -1,4 +1,4 @@
-# AI Chatbot Model Evaluation using NLP Metrics
+# Topsis on Pre-Trained AI models for conversational text
 
 This project evaluates the performance of different AI chatbot models using NLP metrics such as **BLEU, ROUGE, and BERTScore**. It also ranks the models using the **TOPSIS multi-criteria decision-making method**.
 
